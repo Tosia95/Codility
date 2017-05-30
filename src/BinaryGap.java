@@ -12,6 +12,7 @@ class BinaryGap {
 	        while (N!=0) {
 	            if(N%2 == 0) {
 	                co++;
+	                
 	                if (co > max) max = co;
 	            } else co = 0;
 	            N = N/2;
