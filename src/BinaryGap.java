@@ -26,6 +26,7 @@ class BinaryGap {
 	                array[b] = a;
 	                b++;
 	                a = 0;
+	                
 	        }
 	        }
 	        
